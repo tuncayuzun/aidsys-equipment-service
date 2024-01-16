@@ -33,12 +33,10 @@ This service aims to manage aid materials operations as a part of Aidsys project
 
 ```bash
 {
-  {
-"category": "FOOD",
-"name": "Bakliyat",
-"description": "kuru fasulye, nohut v.s",
-"picUrl": "https://www.bakliyat.com/beans"
-}
+  "category": "FOOD",
+  "name": "Bakliyat",
+  "description": "kuru fasulye, nohut v.s",
+  "picUrl": "https://www.bakliyat.com/beans"
 }
 ```
 
@@ -61,7 +59,6 @@ This service aims to manage aid materials operations as a part of Aidsys project
   "picUrl": "https://www.bakliyat.com/beans"
 }
 ```
-
 
 ## Installation
 

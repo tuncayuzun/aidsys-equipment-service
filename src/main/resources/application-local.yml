@@ -1,7 +1,7 @@
 server:
   port: 9001
   shutdown: graceful
-  netty:
+  tomcat:
     connection-timeout: 2s
     idle-timeout: 15s
 
